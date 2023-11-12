@@ -1,12 +1,15 @@
-# Home Page
+---
+title: Home Page
+tags:
+  - home
+---
 
-**Benvenuto su Math Meditations**,
-la pagina per studenti universitari e appassionati di matematica!
+## **Benvenuto su Math Meditations**!
+la pagina per studenti universitari e appassionati di matematica.
 
 Questo progetto, nella piena mentalità del [digital garden](https://maggieappleton.com/garden-history)🌱 , è una collezione più o meno ordinata di lavori che si evolve e cresce nel tempo.
 
-<iframe src="https://editor.p5js.org/ludovicoivaldi-academic/full/a65aFYJJV"width="700" height="500" style="border: 0px solid #ccc; filter: invert(1)" frameborder=0></iframe>
-
+<iframe src="./Programmi/sabbia.html" width=100% height= "470" style="border: 0px" frameborder=0></iframe>
 <sub> questo codice trae ispirazione dal libro "The Nature of Code" di Daniel Shiffman. </sub>
 
 ---
