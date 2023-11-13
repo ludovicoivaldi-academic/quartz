@@ -1,9 +1,19 @@
+---
+title: Varietà e mappe lisce
+aliases:
+  - lezione 1
+tags:
+  - geometria-differenziale
+  - varietà
+  - liscia
+---
+
 # Prime definizioni
 
 >[!warning] ATTENZIONE
 >Durante il corso $\mathbb{R}^n$ sarà sempre da intendersi come spazio euclideo di dimensione $n$ con topologia euclidea
 
-Vogliamo sfruttare la buona struttura degli spazi euclidei per poter parlare di differenziabilità, usare alcuni teoremi dell'analisi e altre proprietà utili, possibilmente estendendole a sottoinsiemi non necessariamente aperti di $\mathbb{R}^n$. 
+Vogliamo sfruttare la buona struttura degli spazi euclidei per parlare di differenziabilità e usare alcuni teoremi dell'analisi (+ altre proprietà utili della topologia euclidea), possibilmente estendendole a sottoinsiemi non necessariamente aperti di $\mathbb{R}^n$. 
 
 ## Applicazioni lisce
 
@@ -34,7 +44,9 @@ Voglio generalizzare il concetto di mappa liscia ad applicazioni non necessariam
 
 Notiamo che $U$ come sottoinsieme di $\mathbb{R}^k$ è aperto e l'operazione di derivazione su $f$ è ben definita, mentre se vediamo $U$ come sottoinsieme di $\mathbb{R}^{k+1}$ non è più aperto, ma riusciamo comunque a trovare le derivate di $f$ guardando $F$.
 
-<iframe src="https://www.desmos.com/calculator/92bnp3d9dv?embed" width="250" height="250" style="border: 1px solid #ccc; filter: invert(1)" frameborder=0></iframe> &emsp; <iframe src="https://www.desmos.com/calculator/gqtbjto1ay?embed" width="250" height="250" style="border: 1px solid #ccc; filter: invert(1)" frameborder=0></iframe>
+<iframe src="./Programmi/desmos" name="92bnp3d9dv" width="250" height="250"  style="border: 0px" frameborder=0></iframe> 
+&emsp; 
+<iframe src="./Programmi/desmos" name="gqtbjto1ay" width="250" height="250" style="border: 0px" frameborder=0></iframe>
 
 Prendiamo spunto da questa osservazione per estendere la definizione di mappa liscia a insiemi non necessariamente aperti.
 

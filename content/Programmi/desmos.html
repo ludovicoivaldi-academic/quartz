@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <script src="prescript.js"></script>
+  </head>
+  <body>
+    <script>
+      let url = window.name
+      let theme = document.documentElement.getAttribute("saved-theme")
+
+      em = document.createElement("iframe")
+      em.src = 'https://www.desmos.com/calculator/' + url + '?embed'
+      em.width = "100%"
+      em.height = "100%"
+      em.frameborder = "0"
+      if (theme == 'dark') em.style = "border: 0px; filter: invert(1)"
+      else em.style = "border: 0px"
+      document.body.appendChild(em)
+    </script>
+  </body>
+</html>

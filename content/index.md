@@ -10,7 +10,7 @@ la pagina per studenti universitari e appassionati di matematica.
 Questo progetto, nella piena mentalità del [digital garden](https://maggieappleton.com/garden-history)🌱 , è una collezione più o meno ordinata di lavori che si evolve e cresce nel tempo.
 
 <iframe src="./Programmi/sabbia.html" width=100% height= "470" style="border: 0px" frameborder=0></iframe>
-<sub> questo codice trae ispirazione dal libro "The Nature of Code" di Daniel Shiffman. </sub>
+<div style="text-align: right"> il codice trae ispirazione dal libro "The Nature of Code" di Daniel Shiffman. </div>
 
 ---
 
@@ -20,9 +20,11 @@ Questo progetto, nella piena mentalità del [digital garden](https://maggieapple
 ---
 ## Università
 
-**[[Università/Indice|Link alla pagina]]**
+![[Indice Università|Indice Università]]
+
+(passare sopra il link con il mouse per un anteprima)
 
 ---
 ## Progetti personali
 
-**[[Progetti personali/Indice|Link alla pagina]]**
+![[Indice Progetti Personali|Indice Progetti Personali]]
